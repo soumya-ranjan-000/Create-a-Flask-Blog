@@ -1,0 +1,11 @@
+h1 {
+  color: rgb(255, 0, 191);
+  font-size: 40px;
+}
+#welcome_img {
+  height: 60vh;
+  background: url("https://images.unsplash.com/photo-1679498815865-38e8f03c8ed5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  background-size: cover;
+  box-shadow: 1px 2px 15px #1f1f1f31;
+  border-radius: 3px;
+}
